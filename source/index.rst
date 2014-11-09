@@ -16,7 +16,7 @@ Conteúdo:
    Servidora Kriti <server-kriti>
    Servidora Corfu <server-corfu>
    Estações de Trabalho <workstations-gaphl>
-   GRID (Sun Grid Engine) <grid>
+   Grid SGE <grid>
    Serviços <services>
 
 
