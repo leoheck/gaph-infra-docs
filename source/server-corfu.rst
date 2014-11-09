@@ -1,8 +1,17 @@
 
-GRID (SGE - Sun Grid Engine) 
-============================
+Servervidora Corfu
+===================
 
-As máquinas do laboratório estão configuradas para executarem processamento em grid.
+Sistema Operacional: Ubuntu 10.04 (bugado) 
+Precisa urgente uma atualizacao e recuperação dos serviços
 
+* Serviços:
+* Subversion
+* Redmine
+* TikiWiki (eca).. <-- Eu migraria tudo pra ca hehe
+* Saltstack
 
-
+* Proximos Passos:
+* Zabbix
+* Sharelatex
+* Git
