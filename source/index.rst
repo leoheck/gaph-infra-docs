@@ -3,18 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to GAPH Infrastructure's documentation!
-===============================================
+Bem Vindo a Documentação da Infraestrutura do GAPH!
+===================================================
 
-Contents:
+Conteúdo:
 
 .. toctree::
    :maxdepth: 2
 
+   visao_geral
+   servidores
+   maquinas
+   servicos
+   usuarios
+   diretorios
+   grid
 
 
-Indices and tables
-==================
+Indices e tabelas
+=================
 
 * :ref:`genindex`
 * :ref:`modindex`
