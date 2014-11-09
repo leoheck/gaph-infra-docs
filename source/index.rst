@@ -12,9 +12,7 @@ Conteúdo:
    :maxdepth: 2
 
    Rede <network>
-   Servidora Rodos <server-rodos>
-   Servidora Kriti <server-kriti>
-   Servidora Corfu <server-corfu>
+   Servidores e Máquinas <servers>
    Estações de Trabalho <workstations-gaphl>
    Grid SGE <grid>
    Serviços <services>
