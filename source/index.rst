@@ -18,6 +18,7 @@ Conteúdo:
    usuarios
    diretorios
    grid
+   rede
 
 
 Indices e tabelas
