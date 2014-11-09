@@ -10,4 +10,4 @@ As máquinas do laboratório estão configuradas para executarem processamento e
 	Corfu <server-corfu>
 	Kriti <server-kriti>
 	Rodos <server-rodos>
-	Estações de Trabalho <workstations-gaphl>
+	GAPHL's <workstations-gaphl>
