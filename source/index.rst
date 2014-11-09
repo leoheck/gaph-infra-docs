@@ -11,14 +11,14 @@ Conteúdo:
 .. toctree::
    :maxdepth: 2
 
-   visao_geral
-   servidores
-   maquinas
-   servicos
-   usuarios
-   diretorios
-   grid
-   rede
+   Rede <network>
+   Servidora Rodos <server-rodos>
+   Servidora Kriti <server-kriti>
+   Servidora Corfu <server-corfu>
+   Estações de Trabalho <workstations-gaphl>
+   GRID (Sun Grid Engine) <grid>
+   Serviços <services>
+
 
 
 Indices e tabelas
