@@ -3,7 +3,7 @@ Serviços
 ========
 
 - :doc:`SVN </svn>`
-- LDAP
+- :doc:`LDAP </ldap>`
 - TikiWiki
 - Saltstack
 
