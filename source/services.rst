@@ -1,8 +1,9 @@
 
-GRID (SGE - Sun Grid Engine) 
-============================
+Serviços 
+========
 
-As máquinas do laboratório estão configuradas para executarem processamento em grid.
-
-
+- :doc:`SVN </svn>`
+- LDAP
+- TikiWiki
+- Saltstack
 
