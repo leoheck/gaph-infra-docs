@@ -16,7 +16,7 @@ Atualmente os usuarios do SVN nao tem relacao com os usuarios da RODOS
 
 - Criação
 
-```htpasswd /var/www/htpasswd <username>```
+``htpasswd /var/www/htpasswd <username>``
 
 - Remoção
 
@@ -26,4 +26,4 @@ Criando Repositorios
 
 Os repositorios sao criados em /var/www/repo, com o comando:
 
-```svnadmin create /var/www/repo```
+``svnadmin create /var/www/repo``
