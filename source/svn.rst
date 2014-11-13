@@ -26,19 +26,19 @@ Criando Repositorios
 
 Os repositorios sao criados em /var/www/repo, com o comando::
 
-svnadmin create /var/www/repo/<project-name>
-chown -R daemon:daemon /var/www/repo/<project-name>
+  svnadmin create /var/www/repo/<project-name>
+  chown -R daemon:daemon /var/www/repo/<project-name>
 
 Configurando os Acessos
 =======================
 
 Editar o arquivo ``/var/www/authz``::
 
-[groups]
-<project-name>_dev = usuário_1, usuário_2, usuário_3, ...
-<project-name>_user = usuário_a, usuário_b, usuário_c, ...
-
-[<project-name>:/]
-@<project-name>_dev = rw
-@<project-name>_user = r
-@nome_do_repo_user = r
+  [groups]
+  <project-name>_dev = usuário_1, usuário_2, usuário_3, ...
+  <project-name>_user = usuário_a, usuário_b, usuário_c, ...
+  
+  [<project-name>:/]
+  @<project-name>_dev = rw
+  @<project-name>_user = r
+  @nome_do_repo_user = r
